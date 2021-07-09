@@ -1,7 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 body {
   /* I know the background color is green on the project example but I wanted to play with it a little bit */
-  background-color: #4831ad;
+  background-color: #16e727;
 }
 .card {
   display: inline-block;
